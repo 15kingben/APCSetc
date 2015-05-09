@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ testHex()
+comment1.params=num
+comment1.target=void\ printFourHexDigits(int)
+comment1.text=prints\ a\ four\ digit\ decimal\ integer\ as\ a\ hex\ number\ in\ the\ ranger\ 0\ to\ 65535\r\n\ @param\ num\ the\ number\ to\ be\ converted\r\n
+comment2.params=num
+comment2.target=void\ printTwoHexDigits(int)
+comment2.text=prints\ a\ two\ digit\ decimal\ integer\ as\ a\ hex\ number\ in\ the\ ranger\ 0\ to\ 255\r\n\ @param\ num\ the\ number\ to\ be\ converted\r\n
+comment3.params=num
+comment3.target=void\ printOneHexDigit(int)
+comment3.text=converts\ an\ int\ range\ 0-15\ to\ hex\r\n\ @param\ int\ to\ be\ converted\r\n
+numComments=4
